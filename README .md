@@ -17,7 +17,8 @@ Aim
 
 ### **Circuit Description**
 
-![][image1]![][image2]
+![image1](circuit.jpg)
+![][image2]
 
 The circuit uses an **LDR sensor** to detect the surrounding light level. The LDR and resistor form a voltage divider that controls the **base of the NPN transistor**.
 
